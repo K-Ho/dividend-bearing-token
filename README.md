@@ -56,6 +56,13 @@ DIV is a Dividend Bearing ERC20 Token. What this means is that DIV can receive f
     npm run start
     ```    
     
+* __What were your design pattern decisions?__
+
+   Here is an [explanation](design_pattern_desicions.md) of the design decisions made.   
+    
+* __What attacks could be possible on this contract?__
+
+   Here is an [overview](avoiding_common_attacks.md) of the common attacks that were identified and handled.   
     
 ## Explanation of Tests
 The main contract that I implemented can be found at 
